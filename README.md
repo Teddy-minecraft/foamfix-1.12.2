@@ -1,2 +1,3 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+# Foamfix 1.12.2
+
+## Mod to optimize RAM consumption
